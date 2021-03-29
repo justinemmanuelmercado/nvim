@@ -1,0 +1,34 @@
+{
+  "tailwindCSS.enable": true,
+  "tailwindCSS.includeLanguages": {"typescriptreact": "javascriptreact"},
+  "tailwindCSS.emmetCompletions": true,
+  "coc.preferences.jumpCommand": "vsplit",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json"
+  ],
+  "eslint.autoFixOnSave": true,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "prettier.disableSuccessMessage": true,
+  "diagnostic.virtualText": true
+}
